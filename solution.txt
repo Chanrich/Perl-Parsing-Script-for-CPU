@@ -1,0 +1,33 @@
+data at 0x0A is 65538
+data at 0x0C is 1048607
+data at 0x00 is -252645633
+data at 0x02 is -300945169
+data at 0x14 is 286392319
+Updated Register 1 with 65538
+Updated Register 2 with 1048607
+Updated Register 3 with -252645633
+Updated Register 4 with -300945169
+Updated Register 5 with 286392319
+R[5] : 286392319, Im : 65518
+SUBTRI operation; Reg[5] with 286326801
+R[1] : 2, R[2] : 31
+MuL operation; Reg[6] with 62
+R[3] : -252645633, R[5] : 286326801
+ADD operation; Reg[7] with 33681168
+Store: Reg[5] into Mem[0x00] now has 286326801
+Store: Reg[6] into Mem[0x02] now has 62
+Store: Reg[7] into Mem[0x04] now has 33681168
+R[y] : -252645633, R[z] : -21846
+ORI operation; Reg[5] with -4353
+R[2] : 1048607, R[4] : -300945169
+SUBTR operation; Reg[6] with 301993776
+R[5] : -4353, R[6] : 301993776
+AND operation; Reg[7] with 301993520
+Store: Reg[6] into Mem[0x04] now has 301993776
+Store: Reg[7] into Mem[0x06] now has 301993520
+Store: Reg[5] into Mem[0x08] now has -4353
+Updated Register 0 with 286326801
+Updated Register 0 with 62
+Updated Register 0 with 301993776
+Updated Register 0 with 301993520
+Updated Register 0 with -4353
